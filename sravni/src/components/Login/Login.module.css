@@ -1,0 +1,14 @@
+.conteiner {
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: #00afff;
+  background-color: rgba(0, 175, 255, 0.06);
+  border-style: none;
+  font-size: 14px;
+  width: 68px;
+  height: 36px;
+  line-height: 20px;
+}
